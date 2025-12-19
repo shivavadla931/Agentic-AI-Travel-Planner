@@ -3,48 +3,51 @@
 
 An intelligent AI-powered Travel Planner built using Streamlit that helps users plan trips efficiently by generating personalized travel suggestions based on user preferences. The app provides a clean, professional dashboard experience with a fully dark-themed UI.
 
-🚀 Features
+## **Features** 
+* Personalized travel planning based on user inputs
+* AI-powered recommendations using an agent-based architecture
+* Smart itinerary generation
+* Professional dark-mode dashboard UI
+* Fast and interactive Streamlit web application
+* Modular and scalable code structure
 
-* 🌍 Personalized travel planning based on user inputs
+## **Tech Stack**
 
-🤖 AI-powered recommendations using an agent-based architecture
+* Frontend & UI: Streamlit (Custom CSS – Dark Mode)
+* Backend / Logic: Python
+* AI Agent: Custom Travel Agent
 
-🧠 Smart itinerary generation
+## **Libraries:**
 
-🎨 Professional dark-mode dashboard UI
+* Streamlit
+* Python standard libraries
+* Deployment: Streamlit Cloud / Local
 
-⚡ Fast and interactive Streamlit web application
-
-🧩 Modular and scalable code structure
-
-🛠️ Tech Stack
-
-Frontend & UI: Streamlit (Custom CSS – Dark Mode)
-
-Backend / Logic: Python
-
-AI Agent: Custom Travel Agent
-
-Libraries:
-
-Streamlit
-
-Python standard libraries
-
-Deployment: Streamlit Cloud / Local
-
-📁 Project Structure
-Travel-Planner-App/
-│
-├── app.py                     # Main Streamlit application
+## **Project Structure**
+```bash
+Agentic-AI-Travel-Planner/
+├── app.py
+├── requirements.txt
+├── README.md
+├──data/
+   ├── flights.json
+   ├── hotels.json
+   ├── places.json
 ├── agent/
-│   └── travel_agent.py        # AI travel planning logic
-├── requirements.txt           # Project dependencies
-└── README.md                  # Project documentation
+│   ├── __init__.py
+│   └── travel_agent.py
+├── tools/
+│   ├── __init__.py
+│   ├── budget_tool.py
+│   ├── flight_tool.py
+│   ├── hotel_tool.py
+│   ├── places_tool.py
+│   └── weather_tool.py
+```
+## **Installation & Setup**
 
-⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/travel-planner-app.git
+git clone https://github.com/shivavadla931/Agentic-AI-Travel-Planner
 cd travel-planner-app
 
 2️⃣ Install Dependencies
@@ -53,7 +56,7 @@ pip install -r requirements.txt
 3️⃣ Run the Application
 streamlit run app.py
 
-🖥️ Application Preview
+## **Application Preview**
 
 The app features a fully dark professional dashboard with a modern layout designed for better readability and user experience.
 
