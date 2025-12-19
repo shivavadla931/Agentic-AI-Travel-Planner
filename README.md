@@ -17,7 +17,7 @@ An intelligent AI-powered Travel Planner built using Streamlit that helps users 
 * Backend / Logic: Python
 * AI Agent: Custom Travel Agent
 
-## **Libraries:**
+## **Libraries**
 
 * Streamlit
 * Python standard libraries
@@ -55,6 +55,10 @@ pip install -r requirements.txt
 
 3️⃣ Run the Application
 streamlit run app.py
+
+## **Application Link**
+
+https://agentic-ai-travel-planner.streamlit.app/
 
 ## **Application Preview**
 
