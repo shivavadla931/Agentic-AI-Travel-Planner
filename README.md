@@ -5,7 +5,7 @@ An intelligent AI-powered Travel Planner built using Streamlit that helps users 
 
 🚀 Features
 
-🌍 Personalized travel planning based on user inputs
+* 🌍 Personalized travel planning based on user inputs
 
 🤖 AI-powered recommendations using an agent-based architecture
 
