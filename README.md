@@ -60,36 +60,35 @@ streamlit run app.py
 
 The app features a fully dark professional dashboard with a modern layout designed for better readability and user experience.
 
-(You can add screenshots here later)
+### Home Page
+![Home](assets/app_preview.png)
 
-🎯 Use Cases
+### Results Page
+![Results](assets/result_preview.png)
 
-Planning personal trips
+## **Use Cases**
 
-Creating quick travel itineraries
+* Planning personal trips
+* Creating quick travel itineraries
+* Exploring destinations based on preferences
+* Demonstrating AI-powered decision support systems
 
-Exploring destinations based on preferences
+## **Future Enhancements**
 
-Demonstrating AI-powered decision support systems
+* Map-based destination visualization
+* Real-time flight and hotel data integration
+* Day-wise itinerary planning
+* Multi-language support
+* User authentication and saved trips
 
-🔮 Future Enhancements
-
-🗺️ Map-based destination visualization
-
-✈️ Real-time flight and hotel data integration
-
-📅 Day-wise itinerary planning
-
-🌐 Multi-language support
-
-🔐 User authentication and saved trips
-
-📌 Conclusion
+## **Conclusion**
 
 The AI Travel Planner App showcases how AI agents and modern web frameworks like Streamlit can be combined to build intelligent, user-friendly applications. This project emphasizes clean UI design, modular architecture, and practical AI usage.
 
-👤 Author
+## **Author**
 
-Vadla Shiva
-📧 Add your email here
-🔗 Add your LinkedIn / GitHub profile here
+Vadla Shiva Kumar
+
+📧 shivavadla931@gmail.com
+
+🔗 https://github.com/shivavadla931
