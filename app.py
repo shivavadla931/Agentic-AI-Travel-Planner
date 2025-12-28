@@ -138,3 +138,4 @@ if plan_clicked and source != destination:
 # ---------------------------------------
 st.markdown("-------")
 st.caption("© 2025 • AI Travel Planner • Built with Streamlit & Open-Meteo")
+st.caption("Developed by Vadla Shiva Kumar")
